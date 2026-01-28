@@ -32,7 +32,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/pickleballDA">
       <ScrollToTop />
       <div className="App">
         <Header
